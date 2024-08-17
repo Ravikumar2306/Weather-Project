@@ -1,5 +1,5 @@
 import React from 'react';
-import InputArea from '/components/inputArea';
+import InputArea from './components/inputArea.jsx';
 import { Routes, Route } from 'react-router-dom';
 
 function App() {

@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Weather-Project/static/css/main.25314785.css",
+    "main.js": "/Weather-Project/static/js/main.4b6fa185.js",
+    "static/media/bg.svg": "/Weather-Project/static/media/bg.e0df89f86b026b80e90b.svg",
+    "static/media/snowIcon.svg": "/Weather-Project/static/media/snowIcon.4889a8494a3c62bfee7853533dff3a77.svg",
+    "static/media/rainyIcon.svg": "/Weather-Project/static/media/rainyIcon.29b4501165e9469a7104fa5e6f960134.svg",
+    "static/media/drizzleIcon.svg": "/Weather-Project/static/media/drizzleIcon.cb97b914bff1a70b8702d1a9a2880169.svg",
+    "static/media/cloudyIcon.svg": "/Weather-Project/static/media/cloudyIcon.506725b5cb65901a29f8713dc46ac988.svg",
+    "static/media/sunnyIcon.svg": "/Weather-Project/static/media/sunnyIcon.2237a222bd489d22c814dd2a67766518.svg",
+    "static/media/windIcon.svg": "/Weather-Project/static/media/windIcon.2cf71928de9040320303c5af638e355c.svg",
+    "static/media/humidityIcon.svg": "/Weather-Project/static/media/humidityIcon.2fcf4bcf2e89b7761c9c4a201fa1ba0d.svg",
+    "index.html": "/Weather-Project/index.html",
+    "main.25314785.css.map": "/Weather-Project/static/css/main.25314785.css.map",
+    "main.4b6fa185.js.map": "/Weather-Project/static/js/main.4b6fa185.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25314785.css",
+    "static/js/main.4b6fa185.js"
+  ]
+}
